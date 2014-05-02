@@ -6,7 +6,7 @@
 
 ## Release 0: Student Roster Schema
 <!-- display your image inline here -->
-
+![alt text](https://github.com/rickytux/phase_0_unit_3/images/roster.jpeg "My Roster Solution")
 
 ## Release 1: One to Many Schema
 <!-- display your image inline here -->
