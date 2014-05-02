@@ -1,7 +1,7 @@
 # U3.W7: Designing Schemas
 
 
-#### I worked on this challenge [by myself, with: ]
+#### I worked on this challenge by myself
 
 
 ## Release 0: Student Roster Schema
@@ -26,3 +26,6 @@ Description of what you're modeling:
 <!-- display your many-to-many image inline here -->
 
 ## Release 5: Reflection
+This exercise was very beneficial.  I had worked with SQL previously but never had a great grasp of it due to lack of 
+instruction but I think I have a basic understanding of the connections now and the ability to diagram a database.  
+I struggled initially working on the SQL designer in socrates but think I have the hang of it now. 
