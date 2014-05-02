@@ -5,19 +5,18 @@
 
 
 ## Release 0: Student Roster Schema
-<!-- display your image inline here -->
-![alt text](https://github.com/rickytux/phase_0_unit_3/images/roster.png "My Roster Solution")
+![alt text](https://github.com/rickytux/phase_0_unit_3/blob/master/images/roster.png "My Roster Solution")
 
 ## Release 1: One to Many Schema
-<!-- display your image inline here -->
+![alt text](https://github.com/rickytux/phase_0_unit_3/blob/master/images/one_to_many.png "My One to many Solution")
 
 
 ## Release 2: One to One Schema
-<!-- display your image inline here -->
+![alt text](https://github.com/rickytux/phase_0_unit_3/blob/master/images/one_to_one.png "My One to many Solution")
 
 
 ## Release 3: Many to Many Schema
-<!-- display your image inline here -->
+![alt text](https://github.com/rickytux/phase_0_unit_3/blob/master/images/many_to_many.png "My One to many Solution")
 
 
 ## Release 4: Design your own Schema
