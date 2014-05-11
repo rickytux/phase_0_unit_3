@@ -1,22 +1,12 @@
-/*
-U3.W8-9: Gradebook from Names and Scores
 
-You will work with the following two variables.  The first, students, holds the names of four students.  
-The second, scores, holds groups of test scores.  The relative positions of elements within the two 
-variables match (i.e., 'Joseph' is the first element in students; his scores are the first value in scores.).
 
-Do not alter the students and scores code.
 
-I worked on this challenge [by myself, with:]
-
-*/
-
-var students = ["Joseph", "Susan", "William", "Elizabeth"]
+var students = ["Joseph", "Susan", "William", "Elizabeth"];
 
 var scores = [ [80, 70, 70, 100],
                [85, 80, 90, 90],
                [75, 70, 80, 75],
-               [100, 90, 95, 85] ]
+               [100, 90, 95, 85] ];
 
 
 
@@ -25,7 +15,26 @@ var scores = [ [80, 70, 70, 100],
 
 // __________________________________________
 // Write your code below.
+var average = function (grades) {
+  var sum = 0;
+  for (var i = 0; i < grades.length; i++) {
+    sum += grades[i];
+  }
+  return (sum / grades.length);
+};
+var gradebook = {
+  Joseph: {testScores: scores[0]},
+  Susan: {testScores: scores[1]},
+  William: {testScores: scores[2]},
+  Elizabeth: {testScores: scores[3]},
 
+  addScore: function(student, score) {
+    this[student].testScores.push(score);
+  },
+  getAverage: function(student) {
+    return average(this[name].testScores);
+  }
+};
 
 
 
