@@ -8,8 +8,7 @@
 # As a user, I want to an electronic grocery list that prints items that are associated with it
 # As a user, I want to be able to add items
 # As a user, I want to be able to remove items
-# As a user, I want to
-# As a user, I want to
+
  
 # Pseudocode
 # Create a class called grocery
